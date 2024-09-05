@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     let hasError = false;
 
     const clickableWords = {
-        '+k': ['şey', '<p class='purple'>geçişsiz eylem<p> yan-'],
+        '+k': ['<p class='purple'>geçişsiz eylem<p> yan- ', '<p class='purple'>ad<p> yanık'],
         'mezcetmek': ['örnek anlam 3', 'örnek anlam 4'],
         
     };
