@@ -175,9 +175,9 @@ main {
 }
 
 .clickable-word {
-    color: #32CD32; /* Yeþil renk */
+    color: #b6526e; /* Yeþil renk */
     cursor: pointer; /* El iþareti */
-    font-weight: bold;
+    
 }
 
 .selected-word-meanings {
