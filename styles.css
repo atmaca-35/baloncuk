@@ -175,8 +175,8 @@ main {
 }
 
 .clickable-word {
-    color: #32CD32; /* Yeþil renk */
-    cursor: pointer; /* El iþareti */
+    color: #32CD32; /* YeÃ¾il renk */
+    cursor: pointer; /* El iÃ¾areti */
     font-weight: bold;
 }
 
@@ -187,11 +187,11 @@ main {
     background-color: #1f1f1f;
     border-radius: 10px;
     color: #f0f0f0;
-    display: none; /* Baþlangýçta gizli */
+    display: none; /* BaÃ¾langÃ½Ã§ta gizli */
 }
 
 .tooltip {
-    background-color: #1f1f1f; /* Search box ile ayný renk */
+    background-color: #000000; /* Search box ile aynÃ½ renk */
     padding: 8px;
     border-radius: 10px;
     position: absolute;
@@ -202,8 +202,8 @@ main {
     width: auto;
     max-width: 200px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-    opacity: 0; /* Baþlangýçta saydam */
-    transition: opacity 0.3s ease-in-out; /* Saydamdan mata geçiþ */
+    opacity: 0; /* BaÃ¾langÃ½Ã§ta saydam */
+    transition: opacity 0.3s ease-in-out; /* Saydamdan mata geÃ§iÃ¾ */
 }
 
     .tooltip.show {
